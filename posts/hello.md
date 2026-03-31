@@ -8,6 +8,4 @@ tags:
 draft: false
 ---
 
-# New post
-
 这里是内容
